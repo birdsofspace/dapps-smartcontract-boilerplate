@@ -13,7 +13,7 @@ This boilerplate aligns with the Hardhat Beginners Tutorial: [https://hardhat.or
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/birds-of-space-dapp-boilerplate.git
+git clone https://github.com/birdsofspace/birds-of-space-dapp-boilerplate.git
 cd birds-of-space-dapp-boilerplate
 ```
 
