@@ -1,5 +1,5 @@
 ## Birds of Space DApp Boilerplate (Hardhat, Solidity, Pug)
-
+![screenshot](https://raw.githubusercontent.com/birdsofspace/dapps-smartcontract-boilerplate/main/screenshot-2.png)
 This repository serves as a starting point for your Ethereum DApp development using Hardhat, Solidity, and Pug for the frontend. 
 
 **Note:** This boilerplate replaces the original React frontend with Pug.
